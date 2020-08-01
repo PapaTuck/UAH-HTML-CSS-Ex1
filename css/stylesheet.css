@@ -1,0 +1,70 @@
+/* STYLE SHEET FOR EXERCISE1-KIDSPACE-GDTUCKER.HTML */
+body {
+  font-family: georgia, helvetica;
+  border-style: solid;
+  border-width: 2px;
+  border-color: #766aaf;
+}
+
+header {
+  border: solid;
+  border-width: 2px;
+  border-color: #766aaf;
+  text-align: center;
+  background: #f9f871;
+}
+
+h1 {
+  font-family: "Bradley Hand ITC", georgia, helvetica;
+  font-size: 250%;
+  font-style: oblique;
+  font-weight: bolder;
+  color: #38c7a6;
+}
+
+h2 {
+  font-family: "Bradley Hand ITC", georgia, helvetica;
+  font-size: 125%;
+  font-style: oblique;
+  font-weight: bolder;
+  color: #38c7a6;
+}
+
+h3 {
+  font-weight: bolder;
+  font-size: 175%;
+  color: #38c7a6;
+}
+
+nav {
+  border: solid;
+  border-color: #766aaf;
+  background: #ffdf6f;
+  font-weight: bold;
+  float: left;
+  height: auto;
+  padding-right: 32px;
+  margin-right: 16px;
+  padding-top: 48px;
+  padding-bottom: 48px;
+}
+
+ul {
+  list-style: none;
+}
+
+article {
+  margin: 10px;
+  padding: 10px;
+  text-align: left;
+}
+
+footer {
+  font-size: 75%;
+  text-align: center;
+  border-style: double;
+  border-width: auto;
+  border-color: #766aaf;
+  padding-top: 20PX;
+  padding-bottom: 20px;
+}
